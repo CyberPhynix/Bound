@@ -1,17 +1,17 @@
 {
-  "name": "bound",
-  "version": "1.0.0",
-  "description": "",
-  "main": "main.js",
-  "scripts": {
-    "startDev": "nodemon main.js"
-  },
-  "keywords": [
-    "game"
-  ],
-  "author": "Josh S.",
-  "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^2.0.19"
-  }
+    "name": "bound",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "startDev": "nodemon main.js"
+    },
+    "keywords": [
+        "game"
+    ],
+    "author": "Josh S.",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^2.0.19"
+    }
 }
