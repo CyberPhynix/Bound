@@ -1,0 +1,11 @@
+{
+    "resulution": {
+        "w": 35,
+        "h": 15
+    },
+    "tickspeed": 1,
+    "design": {
+        "bg": "0",
+        "fg": "-"
+    }
+}
