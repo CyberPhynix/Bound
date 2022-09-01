@@ -18,7 +18,7 @@ let Render = new classRender();
 
 let dl = Render.drawLn;
 
-dl();
+// dl();
 
 function tick() {
     Render.render();
